@@ -3,6 +3,7 @@
 ![searchbar](https://user-images.githubusercontent.com/83842735/181342764-567f9452-1ca3-40cb-9617-2247b06b0ccf.png)
 - Browse around the site to find your favorite recipes, or simply search for any dish you wish to try cooking using the search bar!
 - Utilizes Spoonacular API to retrieve popular recipes, allowing you to easily obtain the cooking instructions and ingredients for any dish.
+[View site here](https://shaunfoo560.github.io/Recipe-Retriever/)
 <br></br>
 
 # Built With:
