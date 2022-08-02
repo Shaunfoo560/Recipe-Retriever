@@ -1,0 +1,59 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0% 15%;
+  background-image: url("https://images.unsplash.com/photo-1495195129352-aeb325a55b65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2076&q=80");
+  background-repeat: round;
+  background-size: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h4{
+  font-size: 1rem;
+  color: rgb(54, 55, 56);
+}
+
+h3{
+  font-size: 1.5rem;
+  color: black;
+  line-height: 2.5rem;
+  margin: 2rem 0rem;
+  text-align: center;
+}
+
+a{
+  color: rgb(54, 55, 56);
+}
+
+h2{
+  font-size: 2rem;
+  color: rgb(54, 55, 56);
+  line-height: 2.5rem;
+  margin: 2rem 0rem;
+}
+
+h1{
+  font-family: 'Playball', cursive;
+  font-size: 3rem;
+  color: black;
+  line-height: 2.5rem;
+  margin: 2rem 0rem;
+  text-align: center;
+}
+
